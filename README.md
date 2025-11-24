@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Natiq Iskandarli!
+# 👋 Hi, I'm Natig Iskandarli!
 
 ## 🚀 About Me
 Senior Full-Stack Developer and Software Engineer with extensive experience in building scalable applications. I specialize in modern web technologies and cloud architecture, delivering enterprise-level solutions.
